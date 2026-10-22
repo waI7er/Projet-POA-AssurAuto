@@ -12,7 +12,7 @@
 | Lina Annouche | 233297691BG     | Tarification     |
 | Membre 2      | À compléter     | Sinistres        |
 | Membre 3      | À compléter     | Échéances        |
-| Membre 4      | À compléter     | Portefeuille     |
+| Lovson GOMA   | À compléter     | Portefeuille     |
 
 ## Contributions individuelles
 
